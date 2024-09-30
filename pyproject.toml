@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "lang"
+version = "0.1.0"
+description = ""
+authors = ["Muhammad Zain Attiq <zainatteeq@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.2.14"
+langchain-community = "^0.2.12"
+langchain-core = "^0.2.34"
+langchain-google-vertexai = "^1.0.10"
+langchain-google-genai = "^1.0.10"
+fastapi = "^0.112.2"
+uvicorn = {extras = ["standard"], version = "^0.30.6"}
+langgraph = "^0.2.15"
+streamlit = "^1.38.0"
+chromadb = "^0.5.5"
+pypdf = "^4.3.1"
+faiss-cpu = "^1.8.0.post1"
+youtube-transcript-api = "^0.6.2"
+bs4 = "^0.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

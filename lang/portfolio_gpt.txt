@@ -1,0 +1,138 @@
+ 
+Muhammad Zain Attiq
+LinkedIn Github
+ Leetcode HackerRank
+ Zainatteeq@gmail.com
+ 03271510305
+ Faisalabad, 38700
+Education:
+ Matric: City High School, Fasialabad 1014/1100
+ FSc Pre-Eng: Islamia College, Faisalabad 999/1100
+ Cloud Applied PIAIC Quarter 4
+Gen AI Engineering 
+Technical Skills:
+ Python
+ FastAPI
+ Backend API Development
+ Cloud Native Development using Linux, Docker, Docker Compose and dev 
+containers 
+ SQL Database Designing and Modeling
+ Microservices and Event-driven Architecture designing
+ Generative AI
+ Prompt Engineering
+ AI based API’s Development
+ LLM’s Integration
+ Custom GPTs , GPT Actions and Custom Assistants
+ LangChain and LlamaIndex
+ Chatbot Development
+ Zapier Automations
+ Machine Learning using Scikit-learn, Pandas, NumPy, matplotlib, Seaborn, 
+Plotly and NLTK
+ Deep Learning using TensorFlow, Keras and PyTorch
+ Git and Github
+ Streamlit AI Apps Prototyping
+ HTML, CSS, TypeScript and NextJS
+Degrees/Certifications/Courses:
+ FSc Pre-Engineering: 
+ Certificate Link
+ Data Science with Python from Simplilearn
+ Certificate Link
+ AI with Irfan Malik from Xeven Skills
+ Certificate Link
+ Git and Gihub from Great Learning
+ Certificate Link
+ Basic Python HackerRank
+ Certificate Link
+ Basic JavaScript HackerRank
+ Certificate Link
+ Problem Solving HackerRank
+ Certificate Link
+ SQL HackerRank
+ Certificate Link
+ Typing Speed @ typing.com
+ Certificate Link
+ Communication and Soft skills from DigiSkills.pk
+ Certificate Link
+ Freelancing from DigiSkills.pk
+ Certificate Link
+ Cloud Applied Generative AI Engineering from PIAIC
+ Python from Code with Harry
+ CS50 from Harward University
+ AI for everyone from deeplearning.ai
+ ChatGPT Prompt Engineering for developers from deeplearning.ai
+ OpenSource Model with Hugging Face from deeplearning.ai
+ LangChain chat with your data from deeplearning.ai
+ ChatGPT&Zapier: Agentic AI for everyone by Jules White from Coursera
+ OpenAI GPTs: Create Custom AI Assistants by Jules White from Coursera
+ Azure Fundamentals from Microsoft Learn
+ Intermediate Machine Learning from Kaggle
+ Cloud Native Microservices API Development from PIAIC
+ LangChain from Krish Naik from Youtube and documentation
+Projects:
+ Zain Online Mart 
+Project Link Video Presentation
+ Custom Todo Assistant GPT
+Project Link Video Presntation
+ Gemini RAG Chat with PDF
+Project Link
+ Salary Prediction ML Model 
+Project Link
+ World Cup 2024 Exploratory Data Analysis
+Project Link + Video Presentation
+ Fashion MNIST DL Model Development using TensorFlow
+Project Link
+ USA Housing EDA, Model Training and Evaluation
+Project Link
+ Titanic Housing EDA, Model Training and Evaluation
+Project Link
+ AI Image To Story
+Project Link
+ AI Error Solver
+Project Link
+ Gemini Talk with Images
+Project Link
+ Number Guessing Game
+Project Link Video Presentation
+ Youtube Video Summarizer
+Project Link Video Presentation
+ AI Student Examiner
+Project Link Video Presentation
+ AI Invoice Extractor
+Project Link
+ AI Powered Dynamic Quiz
+Project Link Video Presentation
+ Blog Post Generator
+Project Link Video Presentation
+ Gift Suggestion LLM
+Project Link
+ Custom QA Gemini ChatBot with history
+Project Link Video Presentation
+ Youtube Video to Article
+Project Link Video Presentation
+ AI Data Insights
+Project Link
+ Text Sentiment Analyzer 
+Project Link Video Presentation
+ TypeScript CLI Projects
+Project Link Video Presentations
+ My Bank Typescript
+Project Link Video Presentation
+ Student Management System Typescript
+Project Link Video Presentation
+ Python Calculator
+Project Link
+ Python Todo list
+Project Link
+ Python Random Password Generator
+Project Link
+Experience:
+-Python Intern @ CodeSoft Dec 2023-Jan 2024
+Letter
+-Machine Learning Intern @ Mentorness Jan 2024-Feb2024
+Letter
+-AI Engineer Intern @InfoTech April 2024-May2024
+Letter
+-Data Science Intern @CodeAlpha May 2024-Aug2024
+Letter
+Soft Skills:
+Let’s meet…
